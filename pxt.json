@@ -2,7 +2,8 @@
     "name": "test",
     "description": "",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "test": "github:man9ho/mymakecode#49c8ef85e7807b9f65db0dbd8ab5ddda5734b546"
     },
     "files": [
         "main.blocks",
